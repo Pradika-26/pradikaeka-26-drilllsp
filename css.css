@@ -1,0 +1,41 @@
+.sidebar{
+    width: 220px;
+    height: 100vh;
+    position: fixed;
+    background-color: rgb(63, 63, 68);
+    color: #000000;
+    padding: 20px;
+    top:0;
+    left:0;
+    }
+    
+    h2{
+        text-align: center;
+        margin-bottom: auto;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    ul{
+        list-style-type: none;
+        padding: 0;
+    }
+    
+    ul li{
+        margin: 15px;
+    }
+    
+    ul li a{
+        font-family: cursive;
+        color: #000000;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+    }
+    
+    ul li a i{
+        margin-right: 10px;
+    }
+    
+    h1{
+        text-align: center;
+    }
